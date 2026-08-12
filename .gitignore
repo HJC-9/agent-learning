@@ -1,9 +1,4 @@
 .env
-.key
-_pycache_/
-*.pyc
-*.pyo
-*.pyd
-.ipynb_checkpoints/
-.venv/
-venv
+venv/
+__pycache__/
+.env.example
