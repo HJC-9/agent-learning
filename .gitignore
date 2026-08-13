@@ -2,3 +2,12 @@
 venv/
 __pycache__/
 .env.example
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 课程资料（不提交）
+requirements_full.txt
